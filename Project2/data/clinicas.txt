@@ -1,0 +1,6 @@
+nome;telefone;morada
+Clinica Lisboa Central;213456789;Rua da Saúde, 123, 1000-001 Lisboa
+Clinica Almada Saúde;212345678;Avenida Principal, 456, 2800-002 Almada
+Clinica Cascais Bem-Estar;214567890;Rua da Praia, 789, 2750-003 Cascais
+Clinica Oeiras Saúde;215678901;Avenida das Flores, 321, 2780-004 Oeiras
+Clinica Sintra Cuidados;219012345;Largo da Paz, 654, 2710-005 Sintra

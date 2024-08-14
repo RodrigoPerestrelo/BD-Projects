@@ -1,0 +1,61 @@
+nif;nome;telefone;morada;especialidade
+972144381;Júlia Ribeiro;952641587;Rua das Flores, 97, 2780-290 Oeiras;Clinica Geral
+442747806;Maria Melo;956025639;Rua dos Cravos, 96, 2711-987 Sintra;Clinica Geral
+151952233;Hugo Pinheiro;933627031;Avenida das Águias, 39, 2649-258 Cascais;Clinica Geral
+912904251;Vanessa Santos;950421601;Avenida da Lua, 65, 2858-380 Almada;Clinica Geral
+461564116;David Borges;900877800;Avenida dos Ventos, 7, 2780-385 Oeiras;Clinica Geral
+039214994;Bruno Brito;997572630;Travessa das Sombras, 63, 2780-059 Oeiras;Clinica Geral
+547894467;Mónica Marques;977597566;Travessa das Estrelas, 54, 2710-035 Sintra;Clinica Geral
+238707853;Tânia Freitas;926659663;Praça das Ilusões, 66, 2713-010 Sintra;Clinica Geral
+727962845;Patrícia Baptista;927074704;Rua das Orquídeas, 28, 1174-534 Lisboa;Clinica Geral
+278272741;Jéssica Fernandes;977470058;Rua dos Pinheiros, 13, 2780-664 Oeiras;Clinica Geral
+361716823;Lara Pacheco;902181052;Rua das Amendoeiras, 75, 2646-402 Cascais;Clinica Geral
+331908097;Ana Pacheco;942001655;Avenida das Rosas, 96, 2879-358 Almada;Clinica Geral
+148321684;Leonardo Rocha;921092052;Avenida das Fontes, 71, 2859-922 Almada;Clinica Geral
+201827526;Eva Cardoso;963534587;Rua das Palmeiras, 80, 1727-507 Lisboa;Clinica Geral
+187494696;Joaquim Silva;955044908;Praça das Ilusões, 9, 2714-326 Sintra;Clinica Geral
+345417412;Paulo Fernandes;900580985;Rua das Magnólias, 45, 2646-668 Cascais;Clinica Geral
+056177382;Ana Moreira;945970745;Avenida dos Pássaros, 97, 2827-225 Almada;Clinica Geral
+836824185;Beatriz Baptista;905065667;Rua das Oliveiras, 5, 2820-489 Almada;Clinica Geral
+767309428;Luís Santana;978940376;Travessa das Oliveiras, 85, 2648-088 Cascais;Clinica Geral
+748230282;Daniel Almeida;950942578;Travessa do Ouro, 99, 2895-371 Almada;Clinica Geral
+834578607;Margarida Gonçalves;996247771;Rua dos Jasmins, 50, 1030-858 Lisboa;Ortopedia
+960771402;Hugo Figueiredo;918451271;Rua dos Girassóis, 11, 2715-169 Sintra;Ortopedia
+825983694;Carlos Fonseca;914091412;Travessa das Sombras, 16, 2780-085 Oeiras;Ortopedia
+693432813;Daniel Melo;979964496;Praça da Sé, 7, 2780-480 Oeiras;Cardiologia
+369787701;Hélio Silva;922263932;Praça da Harmonia, 8, 2715-395 Sintra;Dermatologia
+529921121;Filipa Borges;923386107;Avenida Central, 37, 1014-621 Lisboa;Pediatria
+035287077;António Henriques;931174038;Travessa das Rosas, 42, 2864-349 Almada;Ginecologia
+341053825;Hélder Brito;938031122;Avenida dos Oceanos, 78, 2645-061 Cascais;Ginecologia
+202466748;Leonardo Monteiro;906425466;Travessa da Felicidade, 85, 2645-866 Cascais;Pediatria
+421984761;Lara Piedade;994288453;Praça dos Sonhos, 23, 2849-596 Almada;Ginecologia
+722950185;David Pires;935184120;Avenida da República, 27, 2780-811 Oeiras;Dermatologia
+752612207;Rosa Leal;994707467;Praça das Estrelas, 60, 2780-238 Oeiras;Ginecologia
+692336303;Bianca Teles;939272970;Travessa das Rosas, 9, 2648-656 Cascais;Dermatologia
+235851223;Sónia Pereira;946894605;Rua das Amendoeiras, 24, 2712-328 Sintra;Dermatologia
+698593894;Filipa Vaz;909211472;Avenida da República, 50, 2780-571 Oeiras;Dermatologia
+203310883;Fábio Pinheiro;997227708;Avenida da Lua, 90, 2780-992 Oeiras;Pediatria
+912552895;Josué Pereira;911738016;Avenida dos Pássaros, 49, 2836-855 Almada;Pediatria
+512275958;Vânia Tavares;903917810;Avenida das Águias, 78, 1063-540 Lisboa;Pediatria
+643820017;Beatriz Moura;961111080;Praça da Liberdade, 72, 2780-566 Oeiras;Dermatologia
+325681408;Alberto Santos;973639571;Rua dos Cravos, 21, 2715-670 Sintra;Dermatologia
+405565897;Margarida Teixeira;911949573;Rua das Oliveiras, 37, 2647-100 Cascais;Ginecologia
+658878748;Patrícia Brito;936991283;Avenida dos Descobrimentos, 72, 1877-890 Lisboa;Dermatologia
+435973925;Bruno Cordeiro;941045715;Praça da Alegria, 99, 2714-921 Sintra;Dermatologia
+132361243;Amélia Paulino;939828742;Avenida da Lua, 65, 2780-668 Oeiras;Ginecologia
+250378517;Ana Carvalho;914702924;Travessa das Sombras, 61, 1670-372 Lisboa;Ginecologia
+803645693;Hugo Henriques;982328259;Rua das Violetas, 3, 1190-644 Lisboa;Ginecologia
+222327586;Luís Teixeira;982205107;Avenida dos Aliados, 37, 2780-835 Oeiras;Dermatologia
+164295890;Paulo Cabral;998255032;Travessa do Bosque, 34, 2852-956 Almada;Dermatologia
+646282843;Beatriz Sousa;981069487;Avenida das Fontes, 44, 2648-710 Cascais;Ginecologia
+929980337;Fernanda Matos;960424695;Praça do Marquês, 63, 2780-446 Oeiras;Ginecologia
+270058404;Miguel Freitas;990606100;Praça da Paz, 96, 2780-064 Oeiras;Dermatologia
+226983765;Kevin Rodrigues;970691098;Praça de Espanha, 52, 2889-448 Almada;Dermatologia
+070456109;Vasco Simões;993555532;Rua dos Girassóis, 63, 2647-017 Cascais;Dermatologia
+099263841;Rosa Rocha;968987337;Travessa das Marés, 39, 2711-932 Sintra;Dermatologia
+535535905;David Cordeiro;995671305;Rua das Oliveiras, 44, 1173-566 Lisboa;Ginecologia
+812718389;Sónia Neves;993947149;Travessa do Sol, 69, 2714-512 Sintra;Ginecologia
+205278364;Paulo Mendes;978085203;Rua das Magnólias, 87, 2878-588 Almada;Ginecologia
+951872611;Carla Pereirinha;968691499;Travessa das Rosas, 19, 2826-541 Almada;Ginecologia
+190442096;Sara Silveira;992719528;Praça dos Desejos, 62, 2646-281 Cascais;Ginecologia
+830515546;Liliana Estevão;930753345;Rua das Margaridas, 92, 1556-524 Lisboa;Pediatria
